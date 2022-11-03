@@ -1,0 +1,34 @@
+1. Phân biệt Git và GitHub? Các câu lệnh cơ bản của Git?
+2. Sử dụng Git dùng để làm gì?
+3. HTML là gì? Cấu trúc của 1 thẻ HTML?
+4. Phân biệt các thẻ <ul> và <ol>, <p> và <span>.
+5. Sử dụng HTML dùng để làm gì?
+
+1. 
+	- Git là một hệ thống điều khiển phiên bản (version control system) theo hình thức phân tán
+	- GitHub là một dịch vụ cung cấp kho lưu trữ mã nguồn Git cho các dự án phần mềm cho phép chúng ta lưu trữ và truy cập các dự án của mình một cách dễ dàng từ các máy chủ của họ
+
+	- các câu lệnh cơ bản của Git
+	git remote
+	git clone
+	git init
+	git add
+	git commit
+	git push
+
+2. Git được sử dụng để cộng tác, giải quyết mâu thuẫn
+
+3. HTML viết tắt của từ HyperText Markup Language, hay là "Ngôn ngữ Đánh dấu Siêu văn bản"
+	
+	cấu trúc HTML
+	 doctype
+	 html
+	 head
+	 body
+
+4. 	ul unorder list
+	ol order list
+	p block
+	span inline
+
+5. HTML là ngôn ngữ lập trình dùng để tạo và cấu trúc các thành phần trong trang web hoặc ứng dụng
