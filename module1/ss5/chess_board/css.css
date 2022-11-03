@@ -22,20 +22,3 @@
 
 
 
-.num{
-    display: inline-block;
-    width: 70px;
-    height: 40px;
-    font-size: 25px;
-    text-align: center;
-    margin: 0 -2px;
-
-
-}
-
-.chart{
-    display: inline-block;
-    width: 70px;
-    text-align: center;
-    
-}
