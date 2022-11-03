@@ -1,0 +1,12 @@
+begin
+	input n
+	if(n<35){
+		output E
+	} else if(n<45){
+		output D
+	} else if(n<65){
+		output C
+	} else if(n<75){
+		output B
+	} else output A
+end

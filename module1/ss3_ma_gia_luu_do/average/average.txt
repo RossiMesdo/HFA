@@ -1,0 +1,4 @@
+begin
+	input t, l, h
+	output (t+l+h)/3
+end

@@ -1,0 +1,4 @@
+begin
+	input a
+	output a*23000
+end
