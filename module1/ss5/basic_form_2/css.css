@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(213,254,255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#app_container{
+    background-color: white;
+
+}
+
+table{
+    margin: 5px;
+}
+
+#your_hobbies{
+    background-color: #FF4C00;
+    color: white;
+    
+}
+
+.label_hobbies{
+    width: 100px;
+    display: inline-block;
+    color: rgb(255,139,86);
+}
+
