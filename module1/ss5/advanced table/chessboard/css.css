@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(111, 0, 167);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+#app_container{
+    background-color: white;
+    width: fit-content;
+    box-shadow: 5px 5px 5px #00000071;
+}
+
+table{
+    border-collapse: collapse;
+}
+td{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+
+.black{
+    background-color: black;
+    color: white;
+}
+
+.white{
+    color: black;
+}
+
+.orange{
+    background-color: rgb(255,179,0);
+
+}
